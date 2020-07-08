@@ -7,4 +7,4 @@ Most of the elements of the matrix are unknown because each user can only rate a
 
 Our goal is to find two matrices P and Q, such that R = QPT . The dimensions of Q are m × k, and the dimensions of P are n × k. k is a parameter of the algorithm. We define the error as
 
-![alt text](https://github.com/amithm92/MovieRecommenderSystem_Spark/Images/Error.png?raw=true)
+![Error](Images/Error.png?raw=true "Title")
